@@ -10,6 +10,15 @@ div {
   border-bottom-color: transparent; /* and the bottom of the circle */
 }
 
-#red { /* this selects any elements with the red id */
+#red {
   border-top-color: #f00;
 }
+
+#orange {
+  border-top-color: #ffa500;
+}
+#yellow {}
+#green {}
+#blue {}
+#indigo {}
+#violet {}

@@ -17,8 +17,12 @@ div {
 #orange {
   border-top-color: #ffa500;
 }
-#yellow {}
-#green {}
+#yellow {
+  border-top-color: #ff0;
+}
+#green {
+  bor
+}
 #blue {}
 #indigo {}
 #violet {}
